@@ -122,3 +122,23 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#pycache
+__pycache__/
+instance/
+.webassets-cache
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+bkp_run.py
+
+.idea/misc.xml
+
+.idea/modules.xml
+
+.idea/encodings.xml
+
+.idea/conversor_json_xml.iml
