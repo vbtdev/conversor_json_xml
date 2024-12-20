@@ -33,7 +33,7 @@ fazer upload de arquivos JSON e receber arquivos XML.
 ## :boom: How to run
 
 - ### **Requirements**
- ...
+  ...
   <!-- - É **necessário** ter a versão Java 11 instalada e com a variável de ambiente devidamente alocada para operação.
   - É necessário ter a versão Spring Tool Suit 4 para que o projeto funcione corretamente localmente.
   - Para um teste rápido de endpoints, o projeto possui o banco de dados H2 e uma base de desenvolvimento PostgreSQL local, para a qual a versão 13 do PostegreSQL deve ser instalada para funcionar, o script do banco está na pasta do banco de dados. 
